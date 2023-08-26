@@ -17,8 +17,8 @@ Make Future Predictions: Generate weather predictions for future time periods us
 
 <b>File Overview:</b>
 
-<ul><li>Project Code.ipynb</li>: Jupyter notebook containing code for weather prediction using the Prophet algorithm.
-<li>weather.csv</li>: Excel File containing the necessary data for analysis.</ul>
+<ul><li>Project Code.ipynb: Jupyter notebook containing code for weather prediction using the Prophet algorithm.</li>
+<li>weather.csv: Excel File containing the necessary data for analysis.</li></ul>
 
 <b>Installing Required Libraries:</b>
 
