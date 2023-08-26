@@ -24,11 +24,11 @@ Installing Required Libraries:
 
 Before beginning, ensure you have the necessary libraries installed: <b>pandas, prophet, tqdm, plotly, scikit-learn.</b> You can install these libraries using the following commands:
 
-<b>Install pandas: pip install pandas
-Install prophet: pip install prophet
-Install tqdm: pip install tqdm
-Install plotly: pip install plotly
-Install scikit-learn: pip install scikit-learn</b>
+<b>Install pandas: pip install pandas</b>
+<b>Install prophet: pip install prophet</b>
+<b>Install tqdm: pip install tqdm</b>
+<b>Install plotly: pip install plotly</b>
+<b>Install scikit-learn: pip install scikit-learn</b>
 
 <b>Alternative Dataset:</b>
 
