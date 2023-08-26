@@ -1,1 +1,1 @@
-# Prophet-Based-Weather-Forecasting-MINIPROJECT-
+# Prophet-Based Weather Forecasting MINIPROJECT
