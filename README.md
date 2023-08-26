@@ -25,9 +25,13 @@ Make Future Predictions: Generate weather predictions for future time periods us
 To set up your environment, install the following libraries using the provided commands:
 
 Install pandas: pip install pandas
+
 Install prophet: pip install prophet
+
 Install tqdm: pip install tqdm
+
 Install plotly: pip install plotly
+
 Install scikit-learn: pip install scikit-learn
 
 <b>Note:</b>
