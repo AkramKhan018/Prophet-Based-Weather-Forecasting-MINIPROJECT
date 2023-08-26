@@ -1,8 +1,8 @@
-*PROJECT OVERVIEW*
+<b>PROJECT OVERVIEW</b>
 
 This project focuses on weather prediction using the Facebook Prophet algorithm, designed to automatically capture seasonality and trends for accurate forecasts.
 
-Project Steps:
+<b>Project Steps:</b>
 
 The project entails several key steps:
 
@@ -18,7 +18,7 @@ The project entails several key steps:
 
 File Overview:
 
-The primary project files include the Project Code.ipynb notebook, containing the prediction code, and the Data/ directory, designated for data storage.
+The primary project files include the Project Code.ipynb notebook, containing the prediction code, and the weather.csv file, designated for dataset to be used.
 
 Installing Required Libraries:
 
@@ -29,6 +29,7 @@ Install prophet: pip install prophet
 Install tqdm: pip install tqdm
 Install plotly: pip install plotly
 Install scikit-learn: pip install scikit-learn
+
 Alternative Dataset:
 
 If you prefer a different dataset, consider accessing weather data from sources such as NOAA or NASA POWER Data Access Viewer. By substituting the provided data, you can tailor the project to your chosen dataset. Adjust the data loading and cleaning steps in the code to accommodate the structure and format of your new data.
