@@ -1,5 +1,5 @@
 
-<b>Project Overview:</b.
+<b>Project Overview:</b>
 
 This project aims to predict weather using the Facebook Prophet algorithm, which employs an additive model to forecast based on seasonal effects and trends. Prophet automatically identifies seasonality in weather data, making it advantageous for accurate predictions without extensive feature engineering. It's also suitable for scaling to multiple time series, such as data from adjacent weather stations.
 
